@@ -1,5 +1,3 @@
  #Hello, world!
 
-I study in netology# Test
-# Tests
-# Test
+I study in netology
